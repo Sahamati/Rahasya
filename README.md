@@ -17,5 +17,5 @@ https://hub.docker.com/r/gsasikumar/forwardsecrecy/tags
 ## How to run docker
 1. docker run -p 8080:8080 gsasikumar/forwardsecrecy:V1.2
 
-## Disclamer
+## Disclaimer
 This version supports server side and Android clients only. iOS is expected in first week of September, 2020. Write to us at mahesh@sahamati.org.in for more info
