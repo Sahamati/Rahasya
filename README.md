@@ -11,10 +11,11 @@ https://hub.docker.com/r/gsasikumar/forwardsecrecy/tags
 2. docker run -p 8080:8080 gsasikumar/forwardsecrecy:V1.2
 3. Access the swagger as localhost port 8080. http://localhost:8080/swagger-ui.html
 
-
 ## How to build
 1. ./gradlew build
 
 ## How to run docker
 1. docker run -p 8080:8080 gsasikumar/forwardsecrecy:V1.2
+
+Please note: This version supports server side and Android clients only. iOS is expected in first week of September, 2020. Write to us at mahesh@sahamati.org.in for more info.
 
